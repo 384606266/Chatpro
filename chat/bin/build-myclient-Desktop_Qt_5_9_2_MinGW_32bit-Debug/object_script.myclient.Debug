@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\login.o
+./debug\user.o
+./debug\findpswdialog.o
+./debug\registerdialog.o
+./debug\moc_mainwindow.o
+./debug\moc_login.o
+./debug\moc_findpswdialog.o
+./debug\moc_registerdialog.o
+);

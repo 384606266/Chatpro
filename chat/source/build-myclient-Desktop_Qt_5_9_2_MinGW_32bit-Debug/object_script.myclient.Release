@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\login.o
+./release\user.o
+./release\findpswdialog.o
+./release\registerdialog.o
+./release\moc_mainwindow.o
+./release\moc_login.o
+./release\moc_findpswdialog.o
+./release\moc_registerdialog.o
+);
